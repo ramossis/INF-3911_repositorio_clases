@@ -1,0 +1,29 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+.prueba{
+    background-color: red;
+    color: blue;
+    text-align: center;
+}
+.hover_test{
+    background-color: black;
+    color: greenyellow;
+}
+.font{
+    font-size: 300px;
+}
+.hover_test:hover{
+    color: red;
+    font-weight: 12px;
+}
+
+h2{
+    color: blueviolet;
+}
+#ide{
+    background-color: brown;
+}
+
+
+
