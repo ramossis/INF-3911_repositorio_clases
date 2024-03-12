@@ -1,0 +1,39 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 50px;
+    background-color: blue;
+    width: 1200px;
+    padding: 20px;
+    border-style: solid;
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+    padding: 30px;
+    border: 12px solid red;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 200px;
+    margin-left: 10px;
+}
+
+.img-lorem{
+    border: 12px solid yellow;
+}
+.img-random{
+    width: 1200px;
+}
+.img-src{
+    width: 1200px;
+    height: 1200px;
+}
+.ul-list{
+    background-color: blueviolet;
+    border: 30px dotted chocolate;
+    font-size: 600px;
+}
+.ul-list ul li{
+    color: blue;
+}
