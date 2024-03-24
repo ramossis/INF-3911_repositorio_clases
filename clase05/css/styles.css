@@ -1,0 +1,33 @@
+.title-main{
+    text-align:right;
+}
+.main-title{
+    display: flex;
+    margin: 30px;
+}
+.p-child-red{
+    border: 6px solid blue;
+    padding: 30px;
+    margin: 30px;
+}
+.p-child-red:hover{
+    color: red;
+}
+
+.p-child-blue{
+    border: 6px solid blue;
+    padding: 30px;
+    margin: 30px;
+}
+.p-child-blue:hover{
+    color: blue;
+}
+.img-lorem{
+    width: 800px;
+    height: 600px;
+}
+
+.colors{
+    border: 4px solid black;
+    border-radius: 40px;
+}
